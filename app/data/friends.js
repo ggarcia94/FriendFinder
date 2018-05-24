@@ -3,34 +3,34 @@
 
 var friendsArray = [
     {
-        "name":"Homer1",
+        "name":"Homer",
         "photo":"https://media0.giphy.com/media/jUwpNzg9IcyrK/200w.webp",
         "scores":[
             5,
-            1,
-            4,
-            4,
             5,
-            1,
-            2,
             5,
-            4,
-            1
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
           ]
       },
       {
-        "name":"Lenny",
-        "photo":"https://giphy.com/gifs/the-simpsons-serious-lenny-eNTxLwTGW7E64",
+        "name":"Marge",
+        "photo":"https://media3.giphy.com/media/l2JdW0dSfQqMBPUNa/200w.webp",
         "scores":[
-            2,
-            3,
-            3,
-            2,
             1,
-            5,
-            2,
-            3,
-            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
             1
           ]
       }
